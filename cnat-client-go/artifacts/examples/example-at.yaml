@@ -1,0 +1,7 @@
+apiVersion: cnat.peterochodo.info/v1alpha1
+kind: At
+metadata:
+  name: example-at
+spec:
+  schedule: "every tuesday"
+  command: "read with Morry"
