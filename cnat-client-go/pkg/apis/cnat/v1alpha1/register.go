@@ -5,7 +5,7 @@ import (
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 
-	"github.com/programming-kubernetes/cnat/cnat-client-go/pkg/apis/cnat"
+	"github.com/peterochodo/cnat/cnat-client-go/pkg/apis/cnat"
 )
 
 // SchemeGroupVersion is group version used to register these objects
